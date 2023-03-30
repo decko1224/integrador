@@ -1,7 +1,7 @@
 import './App.css'
 import Card from './components/Card.jsx'
 import Cards from './components/Cards.jsx'
-import Nav from " ./components/Nav.jsx"
+//import Nav from " ./components/Nav.jsx"
 import characters, { Rick } from './data.js'
 
 function App () {
