@@ -3,7 +3,7 @@ import { Link } from "react-router-dom"
 
 export default function Card({ id, name, species, image, gender, onClose }) {
    return (
-      <div className={styles.link}>
+      <div className={styles.Link}>
          <div className={styles.container}>
             <div className={styles.buttonContainer}>
                <button onClick={onClose} className={styles.button}>
