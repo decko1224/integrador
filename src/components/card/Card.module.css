@@ -1,0 +1,65 @@
+.container {
+    background-color: rgb(235, 116, 52);
+    margin-top: 5px;
+    margin-bottom: 20px;
+    display :flex;
+    flex-direction: column;
+    width: 250px;
+    height: 230px;
+    border: solid 2px rgb(128, 76, 226);
+    border-radius: 20px;
+    transition:  all 0.5s ease;
+    box-shadow: 0 0 20px rgba(red, green, blue, alpha);
+    padding-bottom: 130px;
+}
+.container:hover {
+    transform: scale(1.1);
+}
+.buttonContainer{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.button{
+    border-radius: 20px;
+    margin: 10px 10px 0 0;
+    border: none;
+    background-color: crimson;
+    color:cyan
+}
+.button:hover{
+    cursor:pointer;
+    transform: scale(1.1);
+}
+img{
+    width: 200px;
+    border-radius: 10px 10px 5px 5px;
+    
+    
+
+}
+.imageContainer{
+    display: flex;
+    flex-direction: column-reverse;
+    padding-bottom: 10px;;
+    align-items: center;
+    justify-content: center;
+    
+}
+.name{
+    background-color: rgb(235, 116, 52);
+    margin-bottom: 0px;
+}
+.propsContainer{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px;
+  color: rgb(37, 30, 169);
+  border-radius: 0 0 20px 20px;;  
+
+}
+.prop h2{
+    margin: 0px;
+}
+    
