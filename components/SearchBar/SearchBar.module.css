@@ -1,0 +1,18 @@
+.components{
+    background-color: darkblue;
+    display: flex;
+    justify-content: center;
+
+}
+.input {
+    background-color: aqua;
+    font-family: cursive;
+    border-radius: 10px 0 0 10px;
+    border-color: aqua;
+}
+.button {
+    border-radius: 0 10px 10px 0;
+    border-color: aqua;
+    
+    
+}

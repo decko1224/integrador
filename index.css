@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  /* background-image: url("https://cdn.pixabay.com/photo/2018/12/29/08/08/background-3901037_1280.jpg"); */
+  /*background-image: url("https://get.wallhere.com/photo/digital-art-abstract-galaxy-space-sky-clouds-space-art-nebula-atmosphere-universe-astronomy-midnight-outer-space-astronomical-object-2489.jpg");*/
+  background-color: darkslategray;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

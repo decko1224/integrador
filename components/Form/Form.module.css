@@ -1,0 +1,12 @@
+.container {
+    color: rgb(28, 30, 144);
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 10px;
+}
+.warning {
+    border-color: red;
+}
